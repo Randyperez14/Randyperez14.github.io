@@ -1,9 +1,10 @@
 body {
   margin: 0px;
+  background-color: #c7f6b6
 }
 
 canvas {
-  background-color: lightblue;
+  background-color: #c7f6b6
   margin: 20px;
 }
 

@@ -17,6 +17,7 @@ nav {
     margin-bottom: 20px;
     display: flex;
     padding: 10px;
+    border: solid 3px;
 }
 
 h1 {
@@ -49,6 +50,8 @@ main {
     background: rgb(245, 238, 219);
     display: flex;
     margin-top: 20px;
+    border: solid 3px;
+    border-color: black;
 }
 
 .sidebar {
@@ -77,6 +80,7 @@ h2, h3 {
 }
 img{
     border: solid 5px;
+    height: 230px;
 }
 /* Portfolio styles */
 .content h1 {
